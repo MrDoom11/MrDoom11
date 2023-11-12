@@ -34,7 +34,7 @@
  -->
  
 <!-- GithubStats -->
-![MrDoom11 stats](https://github-readme-stats.vercel.app/api?username=mrdoom11&show_icons=true&theme=gotham)
+![MrDoom11 stats](https://github-readme-stats.vercel.app/api?username=mrdoom11&show_icons=true&theme=shadow_red)
  
 <!-- Portfolio -->
 <!--
