@@ -17,5 +17,5 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/kjETcOXKdbYLS/giphy.gif" width="50%" alt="GIF">
+  <img src="https://media.tenor.com/eT65efTNamoAAAAC/bonfire-darksouls.gif" width="50%" alt="GIF">
 </p>
