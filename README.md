@@ -2,7 +2,7 @@
 <h1 align="center">Esse é o começo!</h1>
 
 <!-- Presentation -->
-<p align="center">☢️</p>
+<p align="center">☢️ VibeDev Rust | Streamer | Criador de conteúdo</p>
 
 <!-- Links -->
 <p align="center">
