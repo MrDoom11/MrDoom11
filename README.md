@@ -12,7 +12,7 @@
 
 <!-- GithubStats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrdoom11&show_icons=true&theme=shadow_red" alt="MrDoom11 stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrdoom11&show_icons=true&theme=shadow_red&count_private=true" alt="MrDoom11 stats">
 </p>
 
 <!-- GIF -->
